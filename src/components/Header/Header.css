@@ -1,0 +1,66 @@
+a:link {
+    text-decoration: none;
+}
+a {
+    text-decoration: none;
+}
+
+.container {
+    margin: 20px;
+}
+
+.headerTitle {
+    text-shadow: white 1px 1px;
+    /* color: white; */
+}
+
+.menuButton {
+   background-color:  rgb(255, 255, 255);
+}
+
+.headerDIV {
+    background-color: rgb(0, 0, 0);
+    border-bottom: 5px solid rgb(255, 255, 255);
+}
+
+.nameLink {
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    text-shadow: white 1px 1px;
+}
+
+.nav-item {
+    color: white;
+}
+
+#briefcase {
+    color: saddlebrown
+}
+
+#file {
+    color: turquoise
+}
+
+#laptop {
+    color: hotpink
+}
+
+#ninja {
+    color: rebeccapurple
+}
+
+#close {
+    color: red;
+}
+
+#menuIcon {
+    width: 2.5rem;
+}
+
+#email {
+    color: orange;
+}
+
+#linkedIn {
+    color: rgb(6, 120, 158);
+}

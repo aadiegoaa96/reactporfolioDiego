@@ -1,0 +1,56 @@
+
+.profileIMG{
+    width: auto;
+    max-width: 400px;
+    z-index: 500;
+    position: relative;
+
+}
+
+.container {
+    margin: 20px;
+    
+}
+
+.homeIMG {
+    max-width: 100%;
+    margin: auto;
+    /* width: auto; */
+    height: auto;
+    display: block;
+    z-index: 500;
+}
+
+/* .page-title {
+    color: black;
+    font-weight: bold;
+}
+
+.social-icons {
+    align-content: center;
+    padding-left: 0em;
+    margin: 0em;
+}
+
+.social-links {
+    display: inline-flex;
+    padding: 10px;
+}
+
+.icon {
+    font-size: 2.5rem !important;
+} */
+
+.about {
+    background-color: white;
+    /* max-width: 45rem; */
+    display: block;
+    border-radius: 1rem;
+    margin-right: 2rem;
+    /* z-index: 0; */
+}
+.purple
+{        
+    text-shadow: 1px 1px rgb(0, 0, 0) !important;
+
+}
